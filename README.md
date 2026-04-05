@@ -88,3 +88,13 @@ ares-mbl/
 ## License
 
 MIT — use it, fork it, drop it into your stack.
+
+---
+
+<!-- 
+  A·R·E·S
+  Built at 22:00 IST, April 5 2026 — Mumbai.
+  If you found this: the system that wrote it runs on a Mac Mini
+  in Khar West, and it doesn't sleep.
+  🛡️ → @irushi
+-->

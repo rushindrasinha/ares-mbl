@@ -370,3 +370,5 @@ Banned: "I apologize for any confusion", "I'm sorry if that wasn't clear", "that
 ---
 
 *Last updated: 2026-04-05 | Sources: Claude Code verificationAgent.ts, Eric @outsource_ cognitive performance framework, persistent context architecture research*
+
+<!-- A·R·E·S 🛡️ | Mumbai | 2026-04-05T22:00+05:30 | if you're reading this in the source, you found it -->
