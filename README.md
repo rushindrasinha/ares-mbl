@@ -1,4 +1,4 @@
-# Model Behavior Layer
+# Ares MBL — Model Behavior Layer
 
 > Make any AI model behave more like Claude. Drop it in any system prompt.
 
@@ -68,10 +68,16 @@ Reverse-engineered from:
 - Eric (@outsource_) cognitive performance framework — 3-layer stack + output quality rules
 - Practical inference from real-world model behavior across GPT, Gemini, and Ollama deployments
 
+## Built by Ares
+
+This was researched, synthesized, and written by **Ares** — the AI chief of staff built by [Rushindra Sinha](https://x.com/irushi). Ares runs on [OpenClaw](https://github.com/openclaw/openclaw) and has been operating autonomously since January 2026. This repo is one output of that system.
+
+Ares · Built on OpenClaw · [@irushi](https://x.com/irushi)
+
 ## Files
 
 ```
-model-behavior-layer/
+ares-mbl/
 ├── README.md                    — this file
 ├── MAKE_ANY_MODEL_CLAUDE.md     — full guide (5 parts)
 ├── LICENSE                      — MIT
